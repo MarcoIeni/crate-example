@@ -9,6 +9,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.1.0](https://github.com/MarcoIeni/marco-crate-example/compare/marco-crate-example-v0.1.0...marco-crate-example-v0.1.0) - 2023-01-14
 
 ### Other
+- release (#1)
+- wip
+- wip
+- wip
+- trigger
+- trigger ci
+- import
+
+## [0.1.0](https://github.com/MarcoIeni/marco-crate-example/compare/marco-crate-example-v0.1.0...marco-crate-example-v0.1.0) - 2023-01-14
+
+### Other
 - wip
 - wip
 - wip
