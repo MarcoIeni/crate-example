@@ -1,6 +1,6 @@
 # Crate example
 
-Just for testing [release-plz](https://release-plz.ieni.dev/).
+Just for testing [release-plz](https://release-plz.ieni.dev/)
 
 [![Crates.io](https://img.shields.io/crates/v/marco-crate-example.svg)](https://crates.io/crates/marco-crate-example)
 [![Docs.rs](https://docs.rs/marco-crate-example/badge.svg)](https://docs.rs/marco-crate-example)
